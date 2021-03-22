@@ -1,0 +1,6 @@
+Girard William
+
+Le thème : informatique (e-commerce et tutoriel pour monter un ordinateur soi-même)
+
+Utilisation de média-queries (responsive design)
+Utilisation de JS pour écrite du slogan, et vérification des horaires

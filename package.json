@@ -1,0 +1,11 @@
+{
+  "name": "projet4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "sass": "sass --no-source-map --watch ./css/main.scss:./css/index.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
